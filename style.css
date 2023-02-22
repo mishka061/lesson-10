@@ -1,0 +1,9 @@
+.container{
+    margin: 20px;
+}
+
+.pogoda {
+    color: #030d63;
+    font-size: 20px;
+    line-height: 1.8rem;
+}
